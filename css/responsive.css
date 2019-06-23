@@ -1,0 +1,359 @@
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (max-width: 575px) {
+    .navbar-light .navbar-toggler {
+        border-color: rgba(153, 153, 153, 0.9);
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(153, 153, 153, 0.9);
+    }
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(52, 199, 244, 0.87)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+    }
+    .navbar_part {
+        background: #acacac;
+        padding: 0px 15px;
+        text-align: center;
+    }
+    .navbar_part .nav-item .nav-link {
+        padding: 4px 0px;
+        font-size: 14px;
+    }
+    #banner_start {
+        padding: 0px 0px 30px;
+    }
+    #banner_start {
+        height: 85vh;
+    }
+    h1 {
+        margin-top: -20px;
+        font-size: 28px;
+        padding-top: 0px;
+    }
+    .typejs {
+        padding: 0px 0px;
+        font-size: 20px;
+    }
+    .typejs span {
+        letter-spacing: normal;
+        font-size: 18px;
+    }
+    .banner_text p {
+        padding-right: 0px;
+        padding-bottom: 25px;
+        font-size: 14px;
+    }
+    .right_part a,
+    .banner_text a {
+        font-size: 18px;
+        padding: 5px 15px;
+    }
+    .right_part p {
+        padding: 20px 0px 20px;
+    }
+    .text-left {
+        text-align: center !important;
+    }
+    .pt-5,
+    .py-5 {
+        padding-top: 1rem !important;
+    }
+    .pb-5,
+    .py-5 {
+        padding-bottom: 1rem !important;
+    }
+    #about_start {
+        text-align: center;
+        padding-bottom: 0px;
+    }
+    .common_part h2 {
+        font-size: 24px;
+    }
+    #about_start .right_part h2 {
+        padding-top: 20px;
+        font-size: 24px;
+    }
+    #service_start {
+        padding-bottom: 0px;
+    }
+    #project_start {
+        padding-bottom: 0px;
+    }
+    .team_part {
+        padding-bottom: 0px;
+    }
+    .icon_part h4 {
+        font-size: 20px;
+    }
+    .slick-dots li button {
+        height: 10px;
+        width: 10px;
+    }
+    .slick-dots {
+        margin-top: -20px;
+    }
+    #project_start {
+        text-align: center;
+        padding-bottom: 0px;
+
+    }
+    .btn {
+        margin-right: 20px;
+    }
+    .simplefilter li,
+    .multifilter li,
+    .sortandshuffle li {
+        font-size: 14px;
+        margin: 3px 0;
+    }
+    .overlay_content h5 {
+        padding-top: 45px;
+    }
+    .map_part h4 {
+        padding-top: 10px;
+    }
+    #footer_part .copy_part p {
+        font-size: 18px;
+        padding-top: 5px;
+    }
+    #footer_part {
+        background: #acacac;
+    }
+    #footer_part .footer1 i {
+        margin-bottom: 10px;
+    }
+    #footer_part .footer1 {
+        padding: 0px 0px;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .navbar-light .navbar-toggler {
+        border-color: rgba(153, 153, 153, 0.9);
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(153, 153, 153, 0.9);
+    }
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(52, 199, 244, 0.87)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+    }
+    .navbar_part {
+        background: #acacac;
+        padding: 0px 15px;
+        text-align: center;
+    }
+    #banner_start {
+        height: 85vh;
+    }
+    #banner_start {
+        padding: 0px 0px 0px;
+    }
+    h1 {
+        font-size: 35px;
+        padding-top: 0px;
+        margin-top: -20px;
+    }
+    .typejs span {
+        font-size: 28px;
+    }
+    .typejs {
+        padding: 0px 0px;
+        font-size: 28px;
+    }
+    .banner_text p {
+        padding-right: 0px;
+        padding-bottom: 25px;
+    }
+    .text-left {
+        text-align: center !important;
+    }
+    .pt-5,
+    .py-5 {
+        padding-top: 1rem !important;
+    }
+    .right_part p {
+        padding: 20px 0px 25px;
+    }
+    .map_part h4 {
+        padding-right: 15px;
+        padding-top: 10px;
+        font-size: 18px;
+    }
+    .pb-5,
+    .py-5 {
+        padding-bottom: 1rem !important;
+    }
+    #project_start {
+        padding-bottom: 0px;
+    }
+    #about_start {
+        text-align: center;
+        padding-bottom: 0px;
+    }
+    #service_start {
+        padding-bottom: 0px;
+    }
+    .team_part {
+        padding-bottom: 0px;
+    }
+    #testimonial_part {
+        padding-bottom: 0px;
+    }
+    .common_part h2 {
+        font-size: 24px;
+    }
+    #about_start .right_part h2 {
+        font-size: 26px;
+    }
+    #team-part {
+        padding: 15px 0px;
+    }
+    .slick-dots {
+        margin-top: -20px;
+    }
+    #project_start {
+        text-align: center;
+        padding-bottom: 0px;
+    }
+    .simplefilter li,
+    .multifilter li,
+    .sortandshuffle li {
+        margin-top: 5px;
+    }
+    .overlay_content h5 {
+        font-size: 16px;
+        padding-top: 10px;
+    }
+    .overlay_content h6 {
+        font-size: 14px;
+        padding-bottom: 0px;
+    }
+    .overlay_content i {
+        font-size: 14px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+    .map_part {
+        padding-top: 15px
+    }
+    .btn {
+        margin-right: 20px;
+    }
+    #footer_part {
+        background: #acacac;
+    }
+    #footer_part .copy_part p {
+        font-size: 16px;
+        padding-top: 20px;
+    }
+    #footer_part .footer1 i {
+        font-size: 16px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    h1 {
+        font-size: 44px;
+        padding-top: 0px;
+        margin-top: -20px;
+    }
+    .typejs {
+        padding: 0px 0px;
+        font-size: 32px;
+    }
+    .banner_text p {
+        font-size: 16px;
+    }
+    .right_part a,
+    .banner_text a {
+        font-size: 20px;
+    }
+    .navbar_part .nav-item .nav-link {
+        font-size: 12px;
+    }
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: 0rem;
+        padding-left: .5rem;
+    }
+    .right_part p {
+        padding: 20px 0px 35px;
+    }
+    .team p {
+        font-size: 16px;
+    }
+    .team h3 {
+        font-size: 20px;
+    }
+    .map_part h4 {
+        padding-right: 100px;
+        padding-top: 10px;
+        font-size: 18px;
+    }
+    .btn {
+        margin-right: 20px;
+    }
+    #about_start {
+        text-align: center;
+    }
+    .pb-5,
+    .py-5 {
+        padding-bottom: 1rem !important;
+    }
+    #project_start {
+        text-align: center
+    }
+    overlay_content h5 {
+        font-size: 16px;
+        padding-top: 10px;
+    }
+    .overlay_content h6 {
+        font-size: 14px;
+        padding-bottom: 0px;
+    }
+    .overlay_content i {
+        font-size: 14px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+    .filtr-container {
+        margin-left: -30px;
+    }
+    .map_part {
+        padding-top: 15px;
+    }
+    #footer_part .copy_part p {
+        font-size: 20px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    h1 {
+        font-size: 48px;
+        padding-top: 0px;
+    }
+    .map_part iframe {
+        width: 100%;
+        height: 270px;
+    }
+    .pt-5,
+    .py-5 {
+        padding-top: 1rem !important;
+    }
+    .simplefilter li,
+    .multifilter li,
+    .sortandshuffle li {
+        margin-top: 5px;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {}
